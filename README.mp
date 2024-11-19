@@ -1,3 +1,5 @@
+# 💫 About Me:
+<br>🧠 Always learning something new (life’s a never-ending class 📖).<br>🛌 Certified nap enthusiast – sleep is my secret weapon.<br>🎧 Living life with a 24/7 soundtrack.<br>🚴 Adventurer on two wheels, always chasing new trails.<br>📚 Escaping reality one book at a time – sci-fi, fantasy, you name it.<br>🍳 Amateur chef and “oops” moments.<br>"Live simply, dream big, and keep exploring." 🌍
 
 
 ## 🌐 Socials:
@@ -15,3 +17,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EsmeMP&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
