@@ -1,24 +1,4 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-</head>
-<body>
-  <h1 align="center" style="font-family: 'Pacifico', cursive; color: #FF69B4;">
-    ❣ Hello ❣
-  </h1>
-  <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #9370DB; font-weight: bold;">
-    I'm EsmeMP (Meme)
-  </h2>
-# 🪿 About Me... 🪿
-<ul>
-  <li>🧠 Always learning something new (life’s a never-ending class 📖).</li>
-  <li>🛌 Certified nap enthusiast – sleep is my secret weapon.</li>
-  <li>🎧 Living life with a 24/7 soundtrack.</li>
-  <li>🚴 Adventurer on two wheels, always chasing new trails.</li>
-  <li>📚 Escaping reality one book at a time – sci-fi, fantasy, you name it.</li>
-  <li>🍳 Amateur chef and “oops” moments.</li>
-</ul>
-<p>"Live simply, dream big, and keep exploring." 🌍</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Esmeralda Muñoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Esmeralda Muñoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Esmeralda Muñoz) 
