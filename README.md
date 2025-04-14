@@ -3,7 +3,7 @@
     ❣ Hello ❣
   </h1>
   <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #9370DB; font-weight: bold;">
-    I'm Esmeralda Muñoz Padilla (Meme)
+    I'm Esmeralda Muñoz (Meme)
   </h2>
  🪿 About Me... 🪿
 <ul>
