@@ -5,17 +5,9 @@
   <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #9370DB; font-weight: bold;">
     I'm Esmeralda Muñoz (Meme)
   </h2>
- 🪿 About Me... 🪿
-<ul>
-  <li>🧠 Always learning something new (life’s a never-ending class 📖).</li>
-  <li>🛌 Certified nap enthusiast – sleep is my secret weapon.</li>
-  <li>🎧 Living life with a 24/7 soundtrack.</li>
-  <li>🚴 Adventurer on two wheels, always chasing new trails.</li>
-  <li>📚 Escaping reality one book at a time – sci-fi, fantasy, you name it.</li>
-  <li>🍳 Amateur chef and “oops” moments.</li>
-</ul>
-<p>"Live simply, dream big, and keep exploring." 🌍</p>
-
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/EsmeMP/CLI_readme/main/github_stats.svg" alt="GitHub Stats Terminal Style"/>
+  </p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
