@@ -2,14 +2,9 @@
   <h1 align="center" style="font-family: 'Pacifico', cursive; color: #FF69B4;">
     ❣ Hello ❣
   </h1>
-  <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #9370DB; font-weight: bold;">
-    I'm Esmeralda Muñoz (Meme)
-  </h2>
   <p align="center">
     <img src="https://raw.githubusercontent.com/EsmeMP/CLI_readme/main/github_stats.svg" alt="GitHub Stats Terminal Style"/>
   </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EsmeMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
