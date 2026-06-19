@@ -63,6 +63,17 @@
       </td>
   </tr>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=EsmeMP&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/EsmeMP"
+  width="1000"
+  height="450"
+/>
+</a>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsmeMP&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Esmeralda Muñoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Esmeralda Muñoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmeralda-mu%C3%B1oz-6481b9337/) 
 
