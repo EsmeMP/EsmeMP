@@ -1,17 +1,21 @@
 <body>
   <h1 align="center" style="font-family: 'Pacifico', cursive; color: #FF69B4;">
-    ❣ Hello ❣
+      <img src="assets/dinosaur-dance.gif" width="50" height="50" style="margin: 0 15px;" alt="dancing dino"/>
+      Hello!
+      <img src="assets/dinosaur-dance.gif" width="50" height="50" style="margin: 0 15px;" alt="dancing dino"/>
   </h1>
+
   <p align="center">
     <img src="https://raw.githubusercontent.com/EsmeMP/CLI_readme/main/github_stats.svg" alt="GitHub Stats Terminal Style"/>
   </p>
 
-# 📊 GitHub Stats:
+
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EsmeMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EsmeMP&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EsmeMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EsmeMP&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <picture>
@@ -19,6 +23,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EsmeMP/EsmeMP/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EsmeMP/EsmeMP/output/pacman-contribution-graph.svg">
 </picture>
+
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -63,17 +68,19 @@
       </td>
   </tr>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=EsmeMP&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/EsmeMP"
-  width="1000"
-  height="450"
-/>
-</a>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsmeMP&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/866148859355697828/draw"
+        width="1000"
+        height="450"
+        alt="gitanimals"
+      />
+  </a>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Esmeralda Muñoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Esmeralda Muñoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmeralda-mu%C3%B1oz-6481b9337/) 
-
+<p align="center">
+  <a href="https://esmemp.github.io/">
+    <img src="https://img.shields.io/badge/♥ Mi_Portafolio ♥-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
