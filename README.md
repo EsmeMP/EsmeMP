@@ -10,11 +10,6 @@
   </p>
 
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EsmeMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EsmeMP&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EsmeMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EsmeMP&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -24,6 +19,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EsmeMP/EsmeMP/output/pacman-contribution-graph.svg">
 </picture>
 
+<p align="center">
+  <img src="assets/dinosaur-dance.gif" width="50" height="50" style="margin: 0 15px;" alt="dancing dino"/>
+  <a href="https://esmemp.github.io/">
+    <img src="https://img.shields.io/badge/♥ Mi_Portafolio ♥-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="assets/dinosaur-dance.gif" width="50" height="50" style="margin: 0 15px;" alt="dancing dino"/>
+</p>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -68,7 +70,6 @@
       </td>
   </tr>
 
-
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/866148859355697828/draw"
@@ -76,11 +77,4 @@
         height="450"
         alt="gitanimals"
       />
-  </a>
-
-
-<p align="center">
-  <a href="https://esmemp.github.io/">
-    <img src="https://img.shields.io/badge/♥ Mi_Portafolio ♥-FF69B4?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+</a>
